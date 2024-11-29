@@ -1,0 +1,217 @@
+/** Lato */
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  font-weight: 100;
+  font-style: normal;
+  src: local("Lato Thin"), local("Lato-Thin"),
+  url(../../fonts/Lato-Thin.ttf);
+}
+
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  font-weight: 100;
+  font-style: italic;
+  src: local("Lato Italic"), local("Lato-Italic"),
+  url(../../fonts/Lato-Italic.ttf);
+}
+
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  font-weight: 300;
+  font-style: normal;
+  src: local("Lato Light"), local("Lato-Light"),
+  url(../../fonts/Lato-Light.ttf);
+}
+
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  font-weight: 300;
+  font-style: italic;
+  src: local("Lato LightItalic"), local("Lato-LightItalic"),
+  url(../../fonts/Lato-LightItalic.ttf);
+}
+
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+  src: local("Lato Regular"), local("Lato-Regular"),
+  url(../../fonts/Lato-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  font-weight: 400;
+  font-style: italic;
+  src: local("Lato Italic"), local("Lato-Italic"),
+  url(../../fonts/Lato-Italic.ttf);
+}
+
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+  src: local("Lato Bold"), local("Lato-Bold"),
+  url(../../fonts/Lato-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  font-weight: 700;
+  font-style: italic;
+  src: local("Lato BoldItalic"), local("Lato-BoldItalic"),
+  url(../../fonts/Lato-BoldItalic.ttf);
+}
+
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  font-weight: 900;
+  font-style: normal;
+  src: local("Lato Black"), local("Lato-Black"),
+  url(../../fonts/Lato-Black.ttf);
+}
+
+@font-face {
+  font-family: "Lato";
+  font-display: swap;
+  font-weight: 900;
+  font-style: italic;
+  src: local("Lato BlackItalic"), local("Lato-BlackItalic"),
+  url(../../fonts/Lato-BlackItalic.ttf);
+}
+
+/** Nunito */
+
+@font-face {
+  font-family: "Nunito";
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+  src: local("Nunito Regular"), local("Nunito-Regular"),
+  url(../../fonts/Nunito-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-display: swap;
+  font-weight: 900;
+  font-style: normal;
+  src: local("Nunito Black"), local("Nunito-Black"),
+  url(../../fonts/Nunito-Black.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-display: swap;
+  font-weight: 900;
+  font-style: italic;
+  src: local("Nunito BlackItalic"), local("Nunito-BlackItalic"),
+  url(../../fonts/Nunito-BlackItalic.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+  src: local("Nunito Bold"), local("Nunito-Bold"), url(../../fonts/Nunito-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-display: swap;
+  font-weight: 700;
+  font-style: italic;
+  src: local("Nunito BoldItalic"), local("Nunito-BoldItalic"),
+  url(../../fonts/Nunito-BoldItalic.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-display: swap;
+  font-weight: 800;
+  font-style: normal;
+  src: local("Nunito ExtraBold"), local("Nunito-ExtraBold"),
+  url(../../fonts/Nunito-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-display: swap;
+  font-weight: 800;
+  font-style: italic;
+  src: local("Nunito ExtraBoldItalic"), local("Nunito-ExtraBoldItalic"),
+  url(../../fonts/Nunito-ExtraBoldItalic.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-display: swap;
+  font-weight: 200;
+  font-style: normal;
+  src: local("Nunito ExtraLight"), local("Nunito-ExtraLight"),
+  url(../../fonts/Nunito-ExtraLight.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-display: swap;
+  font-weight: 200;
+  font-style: italic;
+  src: local("Nunito ExtraLightItalic"), local("Nunito-ExtraLightItalic"),
+  url(../../fonts/Nunito-ExtraLightItalic.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-display: swap;
+  font-weight: 400;
+  font-style: italic;
+  src: local("Nunito Italic"), local("Nunito-Italic"),
+  url(../../fonts/Nunito-Italic.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-display: swap;
+  font-weight: 300;
+  font-style: normal;
+  src: local("Nunito Light"), local("Nunito-Light"),
+  url(../../fonts/Nunito-Light.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-display: swap;
+  font-weight: 300;
+  font-style: italic;
+  src: local("Nunito LightItalic"), local("Nunito-LightItalic"),
+  url(../../fonts/Nunito-LightItalic.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-display: swap;
+  font-weight: 600;
+  font-style: normal;
+  src: local("Nunito SemiBold"), local("Nunito-SemiBold"),
+  url(../../fonts/Nunito-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: "Nunito";
+  font-display: swap;
+  font-weight: 600;
+  font-style: italic;
+  src: local("Nunito SemiBoldItalic"), local("Nunito-SemiBoldItalic"),
+  url(../../fonts/Nunito-SemiBoldItalic.ttf);
+}
