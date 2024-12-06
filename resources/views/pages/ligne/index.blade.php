@@ -1,0 +1,1 @@
+<div class="w-full custom-shadow h-2"></div>
